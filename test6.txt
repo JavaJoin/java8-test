@@ -1,0 +1,8 @@
+总用量 24
+-rw-rw-r-- 1 lvlei lvlei 12 3月   9 18:04 README.MD
+-rw-rw-r-- 1 lvlei lvlei 50 3月   9 18:04 test2.txt
+-rw-rw-r-- 1 lvlei lvlei 33 3月   9 18:04 test3.txt
+-rw-rw-r-- 1 lvlei lvlei 27 3月   9 18:04 test4.txt
+-rw-rw-r-- 1 lvlei lvlei 15 3月   9 18:04 test5.txt
+-rw-rw-r-- 1 lvlei lvlei  0 3月   9 18:28 test6.txt
+-rw-rw-r-- 1 lvlei lvlei 35 3月   9 18:04 test.txt
